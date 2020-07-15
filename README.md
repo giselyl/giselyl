@@ -1,4 +1,7 @@
 ### Hi there 👋
+Sou formada em Ciências e Tecnologia e estudo programação por conta própria. Gosto de desafios e acredito que não existe limite para o conhecimento, sou proativa, curiosa e amo aprender. 
+
+Aqui você você vai encontrar parte dos meus objetos de estudo, sintasse a vontade se quiser trocar ideia [Meu Linkedin] (https://www.linkedin.com/in/gisely-lacerda/)
 
 <!--
 **giselyl/giselyl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
